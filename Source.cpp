@@ -21,7 +21,7 @@ int main() {
 
 	double a = 7.0;
 	float b = 5.0f;
-	int c = 3;
+	int c = 9;
 
 	cout << half(a) << endl;
 	cout << half(b) << endl;
